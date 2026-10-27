@@ -1,0 +1,28 @@
+title: Zomboid Mod Manager
+description: Steam Workshop mods for Project Zomboid servers, managed from the server's own page in Pterodactyl 2.0.
+url: https://dawidkulpa.github.io
+baseurl: /zomboid-mod-manager-docs
+
+remote_theme: just-the-docs/just-the-docs@v0.12.0
+color_scheme: dark
+search_enabled: true
+heading_anchors: true
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+  - jekyll-seo-tag
+
+relative_links:
+  enabled: true
+  collections: false
+
+aux_links:
+  "Support":
+    - "https://dawidkulpa.github.io/zomboid-mod-manager-docs/support/"
+aux_links_new_tab: false
+
+footer_content: "Zomboid Mod Manager documentation. Not affiliated with The Indie Stone, Valve or the Pterodactyl project."
+
+exclude:
+  - README.md
