@@ -7,7 +7,7 @@ nav_order: 2
 
 Zomboid Mod Manager adds a **Mods** page to Project Zomboid servers on a Pterodactyl 2.0 panel. This guide covers
 installing, updating and removing it. Settings are described in [configuration.md](configuration.md); the page
-itself in [the feature guides](features/).
+itself in [the feature guides](features/installed.md).
 
 ## Requirements
 
